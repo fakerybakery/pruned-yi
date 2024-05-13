@@ -27,7 +27,7 @@ model = FastLanguageModel.get_peft_model(
 )
 
 from datasets import load_dataset
-dataset = load_dataset("pruned-yi/healing-data", split="train")
+dataset = load_dataset("pruned-yi/healing-data", split="train").shuffle()
 EOS_TOKEN = tokenizer.eos_token
 def formatting_func(example):
     return example["text"] + EOS_TOKEN
