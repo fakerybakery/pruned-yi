@@ -13,7 +13,9 @@ Models are pruned using the awesome [ShortGPT](https://github.com/sramshetty/Sho
 
 ## News
 
-**May 17, 2024:** Healing is taking longer than expected. An early pre-release checkpoint is available [here](https://huggingface.co/pruned-yi/pruned-yi-3b-prerelease-ckpt01). Longer prompts tend work better.
+| Date | Update |
+| --- | --- |
+| 05/17/2024 | Healing is taking longer than expected. An early pre-release checkpoint is available [here](https://huggingface.co/pruned-yi/pruned-yi-3b-prerelease-ckpt01). Longer prompts tend work better. The model is still in an early stage of training. |
 
 ## Steps
 
