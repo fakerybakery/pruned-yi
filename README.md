@@ -7,7 +7,7 @@
 
 Creating <6B SLM models based on 01.AI's amazing Yi models!
 
-Models are pruned using the awesome [ShortGPT](https://github.com/sramshetty/ShortGPT) codebase.
+Models are pruned using the awesome [ShortGPT](https://github.com/sramshetty/ShortGPT) codebase as described in ["ShortGPT: Layers in Large Language Models are More Redundant Than You Expect"](https://arxiv.org/abs/2403.03853) and ["The Unreasonable Ineffectiveness of the Deeper Layers"](https://arxiv.org/abs/2403.17887).
 
 **Not affiliated with 01.AI in any way.**
 
