@@ -11,6 +11,10 @@ Models are pruned using the awesome [ShortGPT](https://github.com/sramshetty/Sho
 
 **Not affiliated with 01.AI in any way.**
 
+## News
+
+**May 17, 2024:** Healing is taking longer than expected. An early pre-release checkpoint is available [here](https://huggingface.co/pruned-yi/pruned-yi-3b-prerelease-ckpt01). Longer prompts tend work better.
+
 ## Steps
 
 1. The models are pruned from Yi 1.5 6B using [ShortGPT](https://github.com/sramshetty/ShortGPT).
